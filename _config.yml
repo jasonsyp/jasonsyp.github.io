@@ -48,8 +48,8 @@ owner:
   twitter: "jay_sips"
   facebook: #username
   google:
-    plus: "UA-72815467-1"
-    analytics:
+    plus:
+    analytics: "UA-72815467-1"
     verify:
     ad-client:
     ad-slot:
