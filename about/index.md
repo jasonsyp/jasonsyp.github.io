@@ -15,7 +15,7 @@ image:
   passion for data to pursue a career in data science, you know the so-called
   sexiest job in America.  This blog is an attempt to document my journey, all the
   stumbles, fumbles, insights, and successes.  Follow along.  
-  <br></br>
+  <br>
 <b>Vitals:</b>  
 
 * <b>Age:</b>          36  
