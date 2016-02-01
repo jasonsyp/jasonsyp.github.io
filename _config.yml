@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            A Journey Into the World of Data Science
 locale:           en_US
 url:
 
@@ -40,23 +40,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Jason Sypniewski
+  avatar: avatar.jpg
+  bio: "Data scientist in training, professional sarcasm engineer, advocate for human decency."
+  email:  "jason.sypniewski@gmail.com"
   disqus-shortname:
-  twitter: #username
+  twitter: "jay_sips"
   facebook: #username
   google:
-    plus: #username
+    plus: "UA-72815467-1"
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: "jasonsyp"
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: "https://www.linkedin.com/in/jasonsypniewski"
   xing: #username
   instagram: #username
   lastfm: #username
