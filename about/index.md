@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: My Bio
+tags: [about, bio]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -10,16 +10,20 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Thanks for visiting my blog.  After a successful, established career working in
+the defense sector, I decided it was time for a life pivot and I followed my
+passion for data to pursue a career in data science, you know the so-called
+sexiest job in America.  This blog is an attempt to document my journey, all the
+stumbles, fumbles, insights, and successes.  Follow along.
 
-## Minimal Mistakes is all about:
+Vitals:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Age:  36
+Location:  The 95% Confidence Interval between NYC and North Jersey
+Background:  B.S. in Computer Science, M.S. in Information Systems.  Both from
+The New Jersey Institute of Technology (Go Highlanders!)
+Interests/Hobbies:  Die-hard NY Mets and Chicago Bears fan; sports geek who likes
+the outdoors; staying active running and adventure races; music of all genres,
+concert goer; craft beer aficionado and part-time home brewer; foodie.  My
+philosophy is there's no problem a good song, a good beer and some good food can't solve,
+especially in the company of great friends.  That applies to data science especially.
