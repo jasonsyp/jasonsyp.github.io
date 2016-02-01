@@ -23,9 +23,9 @@ students, we naturally had some delusions of grandeur involving complex geospati
 ![Total Volume Per Station Over 3 Months](/images/all_stations_3_months.png "Total Entries per Station Over 3 Months")
 <p>We took that data and narrowed the stations to examine to a Top Ten list of greatest volume of entries.  For that list, we then started to look at peak days and hours, which not surprisingly, corresponded to weekdays and AM/PM rush hours.  We proceeded to do further drill-down to examine entry/exit counts to narrow down to specific turnstiles or groups of turnstiles, called Control Areas (it should be noted the MTA has a complicated hierarchy for how turnstiles are identified).  This gave us greater fidelity for how to deploy street team members within key stations.  It also identified anomalies in foot traffic patterns at particular stations, whereas the number of entries and exits were not always uniform.  For example the graphs below show the turnstile entry and exit counts for Penn Station, a major commuter hub.</p>
 <figure class="half">
-    <img src="/images/turnstile_entry_count_pennstation.png">
-    <img src="/images/turnstile_exit_count_pennstation.png">
-    <figcaption>Entry and Exit Counts for Penn Station</figcaption>
+    <a href="/images/turnstile_entry_count_pennstation.png"><img src="/images/turnstile_entry_count_pennstation.png"></a>
+    <a href="/images/turnstile_exit_count_pennstation.png"><img src="/images/turnstile_exit_count_pennstation.png"></a>
+    <figcaption><center>Entry and Exit Counts for Penn Station</center></figcaption>
 </figure>
 <p>Overall, this drill-down analysis method using volume data was an effective approach towards identifying locations to place street team members.  We did encounter some pitfalls along the way, largely attributed to anomalies in the MTA source data, for example skewed data due to unexpected turnstile resets or inconsistent time intervals for the entry/exit count statistics.  Not unexpected, and something you always have to be aware of, which is why its imperative to familiarize yourself with any data sets before making assumptions or conducting analysis.  There are definitely other approaches that could have been taken, and it would be interesting future work to examine socioeconomic data in addition to the raw turnstile data, to better identify a target demographic and known locations where that demographic travels (i.e. stations near tech hot-spots like "Silicon Alley").</p>
 
