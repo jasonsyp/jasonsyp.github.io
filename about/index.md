@@ -14,16 +14,12 @@ Thanks for visiting my blog.  After a successful, established career working in
 the defense sector, I decided it was time for a life pivot and I followed my
 passion for data to pursue a career in data science, you know the so-called
 sexiest job in America.  This blog is an attempt to document my journey, all the
-stumbles, fumbles, insights, and successes.  Follow along.
+stumbles, fumbles, insights, and successes.  Follow along.  
 
-Vitals:
+<b>Vitals:</b>  
 
-Age:  36
-Location:  The 95% Confidence Interval between NYC and North Jersey
-Background:  B.S. in Computer Science, M.S. in Information Systems.  Both from
-The New Jersey Institute of Technology (Go Highlanders!)
-Interests/Hobbies:  Die-hard NY Mets and Chicago Bears fan; sports geek who likes
-the outdoors; staying active running and adventure races; music of all genres,
-concert goer; craft beer aficionado and part-time home brewer; foodie.  My
-philosophy is there's no problem a good song, a good beer and some good food can't solve,
-especially in the company of great friends.  That applies to data science especially.
+* <b>Age:</b>          36  
+* <b>Location:</b>     The 95% Confidence Interval between NYC and North Jersey  
+* <b>Background:</b>   B.S. in Computer Science, M.S. in Information Systems.  Both from The New Jersey Institute of Technology (Go Highlanders!)  
+* <b>Interests/
+  Hobbies:</b>      Die-hard NY Mets and Chicago Bears fan; sports geek who likes the outdoors; staying active running and adventure races; music of all genres, concert goer; craft beer aficionado and part-time home brewer; foodie.  My philosophy is there's no problem a good song, a good beer and some good food can't solve, especially in the company of great friends.  That applies to data science especially.
