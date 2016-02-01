@@ -10,12 +10,13 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Thanks for visiting my blog.  After a successful, established career working in
-the defense sector, I decided it was time for a life pivot and I followed my
-passion for data to pursue a career in data science, you know the so-called
-sexiest job in America.  This blog is an attempt to document my journey, all the
-stumbles, fumbles, insights, and successes.  Follow along.  
+  Thanks for visiting my blog.  After a successful, established career working in
+  the defense sector, I decided it was time for a life pivot and I followed my
+  passion for data to pursue a career in data science, you know the so-called
+  sexiest job in America.  This blog is an attempt to document my journey, all the
+  stumbles, fumbles, insights, and successes.  Follow along.  
 
+  
 <b>Vitals:</b>  
 
 * <b>Age:</b>          36  
