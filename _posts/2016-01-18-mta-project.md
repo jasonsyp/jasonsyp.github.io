@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Turn! Turn! Turnstiles...MTA Subway Traffic Analysis
-image:
-  feature: NYC_subway_map_full-header.png
 ---
 <p>For our first week project, we were assigned teams and asked to determine a
 strategy for increasing attendance at an annual fundraising gala for a non-profit
 called WomenTechWomenYes(WTWY).  The objective as described in the e-mail received
-from the prospective client, WTWY, was to "..place street teams at entrances to subway stations. The street teams collect email addresses and those who sign up are sent free tickets to our gala."  The only reference to data was to [MTA subway turnstile data](http://web.mta.info/developers/turnstile.html), which is freely
-available from NYC.</p>
+from the prospective client, WTWY, was to "..place street teams at entrances to subway stations. The street teams collect email addresses and those who sign up are sent free tickets to our gala."  The only reference to data was to <a href="http://web.mta.info/developers/turnstile.html">MTA subway turnstile data</a>which is freely available from NYC.</p>
 <p>OK, fair enough.  While certainly there wasn't much detail in the original e-mail,
 in practice this is often the case.  An effective data scientist needs to be
 able to work with ambiguity and iterate through a design process that
