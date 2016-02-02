@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Turn! Turn! Turnstiles...MTA Subway Traffic Analysis
+image:
+  feature: NYC_subway_map_full-header.png
 ---
 <p>For our first week project, we were assigned teams and asked to determine a
 strategy for increasing attendance at an annual fundraising gala for a non-profit
