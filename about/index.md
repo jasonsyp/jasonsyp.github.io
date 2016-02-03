@@ -18,4 +18,4 @@ image:
 * <b>Location:</b>     The 95% Confidence Interval between NYC and North Jersey  
 * <b>Background:</b>   B.S. in Computer Science, M.S. in Information Systems.  Both from The New Jersey Institute of Technology (Go Highlanders!)  
 * <b>Interests/
-  Hobbies:</b>      Die-hard NY Mets and Chicago Bears fan; sports geek who likes the outdoors; staying active running and adventure races; music of all genres, concert goer; craft beer aficionado and part-time home brewer; foodie.  My philosophy is there's no problem a good song, a good beer and some good food can't solve, especially in the company of great friends.  That applies to data science especially.
+  Hobbies:</b>      Die-hard NY Mets and Chicago Bears fan; sports geek who likes the outdoors; staying active running and adventure races; music of all genres, concert goer; indy wrestling fan; craft beer aficionado and part-time home brewer; foodie.  My philosophy is there's no problem a good song, a good beer and some good food can't solve, especially in the company of great friends.  That applies to data science especially.
