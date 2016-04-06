@@ -7,17 +7,17 @@ Yes, there's always more.  Now that the bootcamp's over its time for that critic
 As much of a process as it is, it is exciting!  This is what I came into this whole journey for, a fresh start, a chance to put my experience and talents to work in a new and dynamic environment.  An opportunity to leverage data in fun and creative ways, develop exciting new products that help people, innovate new ways to conduct business, or help solve the world's social, economic and geopolitical problems.  
 
 Certainly it won't be easy, but I'm confident the right opportunity will come along, and I'm confident that the combination of past experience and everything new I've learned over the past 12 weeks will help me seize that opportunity.  Until then, there's plenty to keep me busy.  Most of it centering around newly elected NBA Hall of Famer Allen Iverson's favorite topic...**PRACTICE, PRACTICE, PRACTICE**  
-
+<p>
 Among the things on the **To-Do List:**  
-*  Job Search, then Job Search some more  
-*  Networking, Meetups, etc.  
-*  Finish uploading project files and organizing my Github repo  
-*  In Blog We Trust  
-*  Coding challenges  
-*  SQL and NoSQL practice (sounds like an oxymoron)  
-*  Machine Learning review  
-*  Topics in Big Data and Distributed Computing (Hadoop, Spark, etc.)  
-
+-  Job Search, then Job Search some more  
+-  Networking, Meetups, etc.  
+-  Finish uploading project files and organizing my Github repo  
+-  In Blog We Trust  
+-  Coding challenges  
+-  SQL and NoSQL practice (sounds like an oxymoron)  
+-  Machine Learning review  
+-  Topics in Big Data and Distributed Computing (Hadoop, Spark, etc.)  
+</p>
 
 See there's always more to do, and the learning is never done.  As Data Scientists, we all have an unlimited fare card on the proverbial subway system of Data Science, see below.  
 <figure class="full">
