@@ -10,4 +10,4 @@ After considerable searching, I was able to gather data from several sources, wi
 
 For a more detailed description and access to my code and presentation, you can visit my Github repo [here](https://github.com/jasonsyp/metis-datascience/tree/master/projects/final).  I also created an interactive D3.js choropleth map that shows the drug overdose deaths by county from 2002-2014.  The D3 visualization can be viewed [here](http://rawgit.com/jasonsyp/metis-datascience/master/projects/final/visualization/index.html).  The visualization shows significant increases in deaths throughout the majority of the country, highlighting the severity of the problem.  
 
-As far as my journey into the world of data science, this isn't the end...time for the next pivotal steps!  
+As far as my journey into the world of data science, this isn't the end...just time to write the next chapter.  
