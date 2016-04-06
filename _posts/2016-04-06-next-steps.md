@@ -10,7 +10,7 @@ Certainly it won't be easy, but I'm confident the right opportunity will come al
 
 Among the things on the **To-Do List:**  
 <ul style="list-style-type:square">
-<li>Job Search, then Job Search some more</li>  
+<li>Job Search, then job search some more</li>  
 <li>Networking, Meetups, etc.</li>  
 <li>Finish uploading project files and organizing my Github repo</li>  
 <li>In Blog We Trust</li>  
@@ -18,8 +18,7 @@ Among the things on the **To-Do List:**
 <li>SQL and NoSQL practice (sounds like an oxymoron)</li>    
 <li>Machine Learning review</li>  
 <li>Topics in Big Data and Distributed Computing (Hadoop, Spark, etc.)</li>  
-</ul>
-
+</ul>  
 See there's always more to do, and the learning is never done.  As Data Scientists, we all have an unlimited fare card on the proverbial subway system of Data Science, see below.  
 <figure class="full">
     <a href="/images/ds-metro.png"><img src="/images/ds-metro.png"></a>
