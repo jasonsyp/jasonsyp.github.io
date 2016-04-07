@@ -12,4 +12,10 @@ My focus was to try various classification techniques across three different fea
 <li>Feature Selection via Recursive Feature Selection and Model Based Ranking</li>  
 <li>American Heart Disease Common Risk Factors</li>  
 </ul>
-The goal was not such much as to pick a winner, but to get comfortable with the different classification algorithms and various feature selection techniques. Working on this project, also highlighted another important factor in any data science problem, domain expertise. Not surprisingly, the most accurate predictors of heart disease happened to be some of the most invasive procedures, things like stress tests and cauterization to inject dye into the blood vessels. Sure, these are highly accurate, as they are intended to be. But they are costly, time consuming, and highly invasive. Medical diagnosis is a phased process, and doctors are willing to sacrifice accuracy upfront, performing more routine tests first, and only referring patients for further invasive testing once the probability of a positive diagnosis increases.  
+The goal was not such much as to pick a winner, but to get comfortable with the different classification algorithms and various feature selection techniques.  The results of the various classification algorithms are shown in the table below.
+<figure class="full">
+    <a href="/images/heart_classify.png"><img src="/images/heart_classify.png"></a>
+    <figcaption><center>Results of classification - Can you pick a winner?</center></figcaption>
+</figure>
+
+Working on this project, also highlighted another important factor in any data science problem, domain expertise. Not surprisingly, the most accurate predictors of heart disease happened to be some of the most invasive procedures, things like stress tests and cauterization to inject dye into the blood vessels. Sure, these are highly accurate, as they are intended to be. But they are costly, time consuming, and highly invasive. Medical diagnosis is a phased process, and doctors are willing to sacrifice accuracy upfront, performing more routine tests first, and only referring patients for further invasive testing once the probability of a positive diagnosis increases.  
